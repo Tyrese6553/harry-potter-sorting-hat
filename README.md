@@ -1,6 +1,6 @@
 # Harry Potter Sorting Hat
 
-#### Description:
+#### Description
 
 This program is a sorting hat, if you are not familiar with the fantasy world of Harry Potter, there are four houses a student can belong to: Gryffindor, Hufflepuff, Ravenclaw or Slytherin. New students don't get to decide which house they'll be in, it is up to the Sorting Hat. This hat uses magic to enter the new students' mind gaining insight into their personality, qualities and desires to find the most suitable house.
 
