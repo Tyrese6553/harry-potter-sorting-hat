@@ -7,7 +7,7 @@ figlet = Figlet(font="small")
 
 
 def main():
-    my_art = AsciiArt.from_image(r"C:\Users\tyrese.mathenlall\Documents\DA\VSCode\images\download1.png")
+    my_art = AsciiArt.from_image(r"images\download1.png")
     my_art.to_terminal(columns=100)
 
     name = get_name()
@@ -29,19 +29,19 @@ def main():
     time.sleep(3)
 
     if house == "GRYFFINDOR":
-        my_art = AsciiArt.from_image(r"C:\Users\tyrese.mathenlall\Documents\DA\VSCode\images\G.png")
+        my_art = AsciiArt.from_image(r"images\G.png")
         my_art.to_terminal(columns=80)
 
     elif house == "HUFFLEPUFF":
-        my_art = AsciiArt.from_image(r"C:\Users\tyrese.mathenlall\Documents\DA\VSCode\images\H.png")
+        my_art = AsciiArt.from_image(r"images\H.png")
         my_art.to_terminal(columns=80)
 
     elif house == "RAVENCLAW":
-        my_art = AsciiArt.from_image(r"C:\Users\tyrese.mathenlall\Documents\DA\VSCode\images/R.png")
+        my_art = AsciiArt.from_image(r"images\R.png")
         my_art.to_terminal(columns=80)
 
     elif house == "SLYTHERIN":
-        my_art = AsciiArt.from_image(r"C:\Users\tyrese.mathenlall\Documents\DA\VSCode\images\S.png")
+        my_art = AsciiArt.from_image(r"images\S.png")
         my_art.to_terminal(columns=80)
 
 
