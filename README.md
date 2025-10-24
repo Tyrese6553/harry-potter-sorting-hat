@@ -1,5 +1,15 @@
 # Harry Potter Sorting Hat
 
+#### How to Download (Windows Only)
+
+I've packaged this program into an executable file that can run on a Windows operating system.
+
+__Steps to Download__:
+
+1. At the top of this web page, locate and click on `HPSortingHat.exe` in the list of files.
+2. There is a three-dot menu button at the top right, click on it and select the 'Download' option. Alternatively, you can use `Control + Shift + S` to automatically download the file.
+3. You can now run the application on your computer.
+
 #### Description
 
 This program is a sorting hat, if you are not familiar with the fantasy world of Harry Potter, there are four houses a student can belong to: Gryffindor, Hufflepuff, Ravenclaw or Slytherin. New students don't get to decide which house they'll be in, it is up to the Sorting Hat. This hat uses magic to enter the new students' mind gaining insight into their personality, qualities and desires to find the most suitable house.
